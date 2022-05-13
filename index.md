@@ -2,9 +2,12 @@
 
 #A i9tek empresa de Anápolis-GO, Brasil, construiu o aplicativo i9App como um aplicativo gratuito para realizar download.
 
-Este SERVIÇO é fornecido mediante contrato diretamente com cliente pela i9tek de Anápolis-GO,Brasil, e destina-se a ser utilizado como tal.
-Esta página é usada para informar os visitantes do website sobre nossas políticas com a coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar nosso Serviço. Se você optar por usar nosso Serviço, concordará com a coleta e uso de informações relacionadas a essa política.
-As Informações Pessoais que coletamos são usadas para fornecer e melhorar o Serviço.
+#Este SERVIÇO é fornecido mediante contrato diretamente com cliente pela i9tek de Anápolis-GO,Brasil, e destina-se a ser utilizado como tal.
+
+#Esta página é usada para informar os visitantes do website sobre nossas políticas com a coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar nosso Serviço. Se você optar por usar nosso Serviço, concordará com a coleta e uso de informações relacionadas a essa política.
+
+#As Informações Pessoais que coletamos são usadas para fornecer e melhorar o Serviço.
+
 Nós não usaremos ou compartilharemos suas informações com ninguém.
 Coleta e Uso de Informação
 Para uma melhor experiência, ao usar nosso Serviço, podemos exigir que você nos forneça algumas informações pessoais identificáveis, incluindo, mas não se limitando a, CAMERA, CONTATOS. As informações que solicitamos serão retidas por nós e usadas conforme descrito nesta política de privacidade. 
