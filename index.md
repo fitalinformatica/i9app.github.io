@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Política de Privacidade i9App</title>
-  </head>
-  <body>
-Política de Privacidade - App i9App - Android
+#Política de Privacidade - App i9App - Android
 
-A i9tek empresa de Anápolis-GO, Brasil, construiu o aplicativo i9App como um aplicativo gratuito para realizar download.
+#A i9tek empresa de Anápolis-GO, Brasil, construiu o aplicativo i9App como um aplicativo gratuito para realizar download.
+
 Este SERVIÇO é fornecido mediante contrato diretamente com cliente pela i9tek de Anápolis-GO,Brasil, e destina-se a ser utilizado como tal.
 Esta página é usada para informar os visitantes do website sobre nossas políticas com a coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar nosso Serviço. Se você optar por usar nosso Serviço, concordará com a coleta e uso de informações relacionadas a essa política.
 As Informações Pessoais que coletamos são usadas para fornecer e melhorar o Serviço.
@@ -28,6 +22,3 @@ Alterações a esta política de privacidade
 Podemos atualizar nossa Política de Privacidade de tempos em tempos. Assim, aconselhamos que você revise esta página periodicamente para quaisquer alterações. Vamos notificá-lo de quaisquer alterações, publicando a nova Política de Privacidade nesta página. Estas alterações entram em vigor imediatamente após serem publicadas nesta página.
 Contate-Nos
 Se você tiver dúvidas ou sugestões sobre nossa Política de Privacidade, não hesite em nos contatar.
-
-  </body>
-</html>
